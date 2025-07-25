@@ -53,10 +53,8 @@ SafeguardResult result = client.safeguard("user input");
 
 ## 📚 Documentation
 
-- [API Documentation](https://docs.strathon.com.br/api)
-- [SDK Documentation](https://docs.strathon.com.br/sdks)
-- [Examples](./examples/)
-- [Authentication Guide](https://docs.strathon.com.br/authentication)
+- [GitHub Repository](https://github.com/strathon/sdks)
+- [API Reference](https://br.api.strathon.io/docs)
 
 ## 🤝 Contributing
 
