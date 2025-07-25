@@ -1,0 +1,5 @@
+# Global owners
+* @strathon/engineering
+
+# Product-specific owners
+/sdks/ @strathon/sdks-team
